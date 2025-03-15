@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    background-color: #0fe42f;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+header .image img{
+    margin: 50px 0 50px 50px;
+    width: 100px;
+    height: 100px;
+}
+header nav a{
+    justify-content: space-between;
+    margin-left: 10px;
+    
+}
+header .rien {
+    margin: 50px 0 50px 50px;
+    width: 100px;
+    height: 100px;
+}
